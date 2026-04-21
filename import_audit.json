@@ -1,0 +1,32 @@
+{
+  "generated_dates": [
+    "29.01.2026",
+    "15.03.2026"
+  ],
+  "generated_count": 46,
+  "source_workbook": "Flood _Nov 2025 (6).xlsx",
+  "notes": [
+    "Loaded Jan 29-31 from Water Quality-Jan 2026 sheet",
+    "Loaded Feb 1-28 from Water Quality-Feb 2026 sheet",
+    "Loaded Mar 1-15 from Water Quality-March 2026 sheet",
+    "Corrected February date-column sequence positionally to account for a mislabeled 14 Feb header in the workbook",
+    "Matale total row for Jan 29-31 is not present in source page layout, so those total metrics remain blank while the row itself is preserved"
+  ],
+  "missing_rows": [
+    [
+      "29.01.2026",
+      "Matale District",
+      "9"
+    ],
+    [
+      "30.01.2026",
+      "Matale District",
+      "9"
+    ],
+    [
+      "31.01.2026",
+      "Matale District",
+      "9"
+    ]
+  ]
+}
